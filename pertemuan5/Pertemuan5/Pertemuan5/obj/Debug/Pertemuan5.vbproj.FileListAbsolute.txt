@@ -1,0 +1,15 @@
+D:\Data kampus\Pertemuan5\Pertemuan5\bin\Debug\Pertemuan5.exe.config
+D:\Data kampus\Pertemuan5\Pertemuan5\bin\Debug\Pertemuan5.exe
+D:\Data kampus\Pertemuan5\Pertemuan5\bin\Debug\Pertemuan5.pdb
+D:\Data kampus\Pertemuan5\Pertemuan5\bin\Debug\Pertemuan5.xml
+D:\Data kampus\Pertemuan5\Pertemuan5\obj\Debug\Pertemuan5.vbprojResolveAssemblyReference.cache
+D:\Data kampus\Pertemuan5\Pertemuan5\obj\Debug\Pertemuan5.Form1.resources
+D:\Data kampus\Pertemuan5\Pertemuan5\obj\Debug\Pertemuan5.Resources.resources
+D:\Data kampus\Pertemuan5\Pertemuan5\obj\Debug\Pertemuan5.vbproj.GenerateResource.Cache
+D:\Data kampus\Pertemuan5\Pertemuan5\obj\Debug\Pertemuan5.exe
+D:\Data kampus\Pertemuan5\Pertemuan5\obj\Debug\Pertemuan5.xml
+D:\Data kampus\Pertemuan5\Pertemuan5\obj\Debug\Pertemuan5.pdb
+C:\Users\ASUS\OneDrive\Pictures\ssniko\Pertemuan5\Pertemuan5\bin\Debug\Pertemuan5.exe.config
+C:\Users\ASUS\OneDrive\Pictures\ssniko\Pertemuan5\Pertemuan5\obj\Debug\Pertemuan5.exe
+C:\Users\ASUS\OneDrive\Pictures\ssniko\Pertemuan5\Pertemuan5\obj\Debug\Pertemuan5.xml
+C:\Users\ASUS\OneDrive\Pictures\ssniko\Pertemuan5\Pertemuan5\obj\Debug\Pertemuan5.pdb
